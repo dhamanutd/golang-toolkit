@@ -1,0 +1,4 @@
+secret : "super secret"
+server :
+  port: 3000
+  name: test api
